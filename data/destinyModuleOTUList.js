@@ -1,0 +1,1 @@
+var destinyModuleOTUs = ['Bordetella_1', 'Brevundimonas_MS_2', 'Burkholderiales_MS_1', 'Comamonadaceae_MS_12', 'Helicobacter_typhlonius_1', 'Polynucleobacter_duraquae_1', 'Rhodoferax_MS_1', 'Lactobacillus_4', 'Lactobacillus_7', 'Lactobacillus_florum_1', 'Bacteroidales_MS_7', 'Bacteroidetes_MS_4', 'Cryptomonadaceae_12', 'Unknown_bacteria_56'];
